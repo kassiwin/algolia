@@ -1166,18 +1166,10 @@
   dependencies:
     axios "^0.21.1"
 
-"@tryghost/errors@0.2.13", "@tryghost/errors@^0.2.13":
-  version "0.2.13"
-  resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-0.2.13.tgz#819550c347f5634706b5a4834dd2db0e7cb0a6f2"
-  integrity sha512-RXREWxDy69LC5t8sW6UuSnUNED1ZT9wKTNCJ2VDdrdS1CTaxmZroaWoKOrGjrQDx/M2IBHJSNZHbnRtkHoJ4hw==
-  dependencies:
-    "@tryghost/ignition-errors" "^0.1.0"
-    lodash "^4.17.21"
-
-"@tryghost/ignition-errors@^0.1.0":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@tryghost/ignition-errors/-/ignition-errors-0.1.4.tgz#630520db9c2b711c32558cd67e9453500ec62b2c"
-  integrity sha512-7ZVrHa9RO6+q60MP4MEcBEzKpaQ6FuL0RSyHr4fUVNOfRadCRrGuo3sp0L85SShkQvc1zB0gz4KApGyaBJp5OQ==
+"@tryghost/errors@1.2.0", "@tryghost/errors@^1.0.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.0.tgz#989f10434a17286e952b5a9434e50846ea4ad87c"
+  integrity sha512-80I7LmRgPQt380Bm/90hF8KPkkNqOFHF2T6oO+NXkLd+UTc1qLOfe6nZS17WD9glMmHrqv6IF8U1MjPMDa4VOQ==
   dependencies:
     lodash "^4.17.21"
     uuid "^8.3.2"
